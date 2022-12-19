@@ -61,8 +61,8 @@ margin-left:-20px;
 -moz-border-radius:4px;
 -webkit-border-radius:4px;
 border-radius:4px;
-background:#000 url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/loader.gif) center no-repeat;
-background:rgba(0,0,0,.7) url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/loader.gif) center no-repeat;
+background:#000 url(/Images/Banner/loader.gif) center no-repeat;
+background:rgba(0,0,0,.7) url(/Images/Banner/loader.gif) center no-repeat;
 z-index:4;
 display:none;
 }
@@ -140,7 +140,7 @@ position:absolute;
 top:0;
 left:0;
 z-index:10;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/spacer.png) no-repeat;
+background:url(/Images/Banner/spacer.png) no-repeat;
 }
 .wt-rotator .thumbnails,
 .wt-rotator .buttons{
@@ -247,64 +247,64 @@ width:auto;
 height:auto;
 }
 .wt-rotator .play-btn{
-background:#000 url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/ );
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/play.png), -moz-linear-gradient(#333, #000);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/play.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
+background:#000 url(/Images/Banner/ );
+background:url(/Images/Banner/play.png), -moz-linear-gradient(#333, #000);
+background:url(/Images/Banner/play.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
 }
 .wt-rotator .play-btn:hover{
 background-color:#CCC !important;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/play.png), -moz-linear-gradient(#CCC, #999);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/play.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
+background:url(/Images/Banner/play.png), -moz-linear-gradient(#CCC, #999);
+background:url(/Images/Banner/play.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
 }
 .wt-rotator .pause{
-background:#000 url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/pause.png);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/pause.png), -moz-linear-gradient(#333, #000);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/pause.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
+background:#000 url(/Images/Banner/pause.png);
+background:url(/Images/Banner/pause.png), -moz-linear-gradient(#333, #000);
+background:url(/Images/Banner/pause.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
 }
 .wt-rotator .pause:hover{
 background-color:#CCC !important;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/pause.png), -moz-linear-gradient(#CCC, #999);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/pause.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
+background:url(/Images/Banner/pause.png), -moz-linear-gradient(#CCC, #999);
+background:url(/Images/Banner/pause.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
 }
 .wt-rotator .prev-btn{
-background:#000 url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/prev.png);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/prev.png), -moz-linear-gradient(#333, #000);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/prev.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
+background:#000 url(/Images/Banner/prev.png);
+background:url(/Images/Banner/prev.png), -moz-linear-gradient(#333, #000);
+background:url(/Images/Banner/prev.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
 }
 .wt-rotator .prev-btn:hover{
 background-color:#CCC !important;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/prev.png), -moz-linear-gradient(#CCC, #999);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/prev.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
+background:url(/Images/Banner/prev.png), -moz-linear-gradient(#CCC, #999);
+background:url(/Images/Banner/prev.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
 }
 .wt-rotator .next-btn{
-background:#000 url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/next.png);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/next.png), -moz-linear-gradient(#333, #000);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/next.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
+background:#000 url(/Images/Banner/next.png);
+background:url(/Images/Banner/next.png), -moz-linear-gradient(#333, #000);
+background:url(/Images/Banner/next.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
 }
 .wt-rotator .next-btn:hover{
 background-color:#CCC !important;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/next.png), -moz-linear-gradient(#CCC, #999);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/next.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
+background:url(/Images/Banner/next.png), -moz-linear-gradient(#CCC, #999);
+background:url(/Images/Banner/next.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
 }
 .wt-rotator .up{
-background:#000 url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/up.png);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/up.png), -moz-linear-gradient(#333, #000);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/up.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
+background:#000 url(/Images/Banner/up.png);
+background:url(/Images/Banner/up.png), -moz-linear-gradient(#333, #000);
+background:url(/Images/Banner/up.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
 }
 .wt-rotator .up:hover{
 background-color:#CCC !important;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/up.png), -moz-linear-gradient(#CCC, #999);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/up.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
+background:url(/Images/Banner/up.png), -moz-linear-gradient(#CCC, #999);
+background:url(/Images/Banner/up.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
 }
 .wt-rotator .down{
-background:#000 url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/down.png);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/down.png), -moz-linear-gradient(#333, #000);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/down.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
+background:#000 url(/Images/Banner/down.png);
+background:url(/Images/Banner/down.png), -moz-linear-gradient(#333, #000);
+background:url(/Images/Banner/down.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#333), to(#000));
 }
 .wt-rotator .down:hover{
 background-color:#CCC !important;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/down.png), -moz-linear-gradient(#CCC, #999);
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/down.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
+background:url(/Images/Banner/down.png), -moz-linear-gradient(#CCC, #999);
+background:url(/Images/Banner/down.png), -webkit-gradient(linear, 0 top, 0 bottom, from(#CCC), to(#999));
 }
 #rotator-tooltip{
 position:absolute;
@@ -316,7 +316,7 @@ display:none;
 #rotator-tooltip.txt-up{
 margin-left:-10px;
 margin-bottom:5px;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/vtip.png) no-repeat;
+background:url(/Images/Banner/vtip.png) no-repeat;
 background-position:10px bottom;
 background-position-x:10px;
 background-position-y:bottom;
@@ -324,22 +324,22 @@ background-position-y:bottom;
 #rotator-tooltip.txt-down{
 margin-left:-10px;
 margin-top:24px;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/vtip.png) no-repeat;
+background:url(/Images/Banner/vtip.png) no-repeat;
 background-position:10px top;
 background-position-x:10px;
 background-position-y:top;
 }
 #rotator-tooltip.img-up{
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/vtip.png) center bottom no-repeat;
+background:url(/Images/Banner/vtip.png) center bottom no-repeat;
 }
 #rotator-tooltip.img-down{
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/vtip.png) center top no-repeat;
+background:url(/Images/Banner/vtip.png) center top no-repeat;
 }
 #rotator-tooltip.img-right{
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/htip.png) left center no-repeat;
+background:url(/Images/Banner/htip.png) left center no-repeat;
 }
 #rotator-tooltip.img-left{
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/htip.png) right center no-repeat;
+background:url(/Images/Banner/htip.png) right center no-repeat;
 }
 #rotator-tooltip .tt-txt{
 font-family:Arial,Helvetica,sans-serif;
@@ -370,7 +370,7 @@ margin-top:-25px;
 width:40px;
 height:50px;
 cursor:pointer;
-background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/large_buttons.png) no-repeat;
+background:url(/Images/Banner/large_buttons.png) no-repeat;
 -moz-opacity:.8;
 filter:alpha(opacity=80);
 opacity:.8;

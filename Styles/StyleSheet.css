@@ -40,7 +40,7 @@ h1
 h3
 {
     font-weight:bold;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/subtitle_box.gif) no-repeat;
+	background:url(/Images/gameguide/subtitle_box.gif) no-repeat;
 	width:650px;
 	height:35px;
 	color:#FFFFFF;
@@ -50,7 +50,7 @@ h3
 .caption1
 {
     font-weight:bold;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/subtitle_box.gif) no-repeat;
+	background:url(/Images/gameguide/subtitle_box.gif) no-repeat;
 	width:650px;
 	height:35px;
 	color:#FFFFFF;
@@ -506,7 +506,7 @@ caption
 	width:650px;
 	border-spacing:0;
 	border-collapse:collapse;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/board/forum_bg.gif) no-repeat;
+	background:url(/Images/board/forum_bg.gif) no-repeat;
 }
 
 .bbsList tbody tr:hover
@@ -625,7 +625,7 @@ caption
 	width:610px;
 	height:30px;
 	padding:10px 20px 0 20px;
-	background: #000 url(https://nightfall-dev.github.io/rw-cpanel/Images/board/forum_bg.gif) no-repeat;
+	background: #000 url(/Images/board/forum_bg.gif) no-repeat;
 }
 
 .post .header .subject
@@ -694,7 +694,7 @@ caption
 	font-family:Arial;
 	font-weight:bold;
 	color:#cc0000;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/board/recomment_icon.gif) no-repeat 0 2px;
+	background:url(/Images/board/recomment_icon.gif) no-repeat 0 2px;
 }
 
 .post .date
@@ -730,7 +730,7 @@ caption
 {
 	border-top:1px solid #2d2c28;
 	border-bottom:2px solid #000;
-	background:#131313 url(https://nightfall-dev.github.io/rw-cpanel/Images/board/comment_bg.gif) no-repeat;
+	background:#131313 url(/Images/board/comment_bg.gif) no-repeat;
 	position:relative;
 }
 
@@ -753,7 +753,7 @@ caption
 	font-weight:normal;
 	font-size:18px;
 	text-transform:uppercase;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/sub_title_icon.gif) no-repeat 0 7px;
+	background:url(/Images/common/sub_title_icon.gif) no-repeat 0 7px;
 }
 
 .postWirte input[type="text"]
@@ -796,7 +796,7 @@ caption
 	font-size:11px;
 	text-transform:uppercase;
 	text-align:left;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/list_icon.gif) no-repeat 0 12px;
+	background:url(/Images/common/list_icon.gif) no-repeat 0 12px;
 	float:left;
 }
 
@@ -852,7 +852,7 @@ caption
 	padding:2px 6px 3px 6px;
 	line-height:20px;
 	border:1px solid #171717;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/board/paging_off_bg.gif) repeat-x;
+	background:url(/Images/board/paging_off_bg.gif) repeat-x;
 }
 
 .paging a:hover,
@@ -861,7 +861,7 @@ caption
 	text-decoration:none;
 	color:#fff;
 	border:1px solid #cc0000;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/board/paging_on_bg.gif) repeat-x;
+	background:url(/Images/board/paging_on_bg.gif) repeat-x;
 }
 
 .separator
@@ -896,7 +896,7 @@ caption
 {
 	padding:9px;
 	border:1px solid #222;
-	background:#131313 url(https://nightfall-dev.github.io/rw-cpanel/Images/board/gallery_bg.gif) no-repeat;
+	background:#131313 url(/Images/board/gallery_bg.gif) no-repeat;
 }
 
 .gallery .galleryThumb
@@ -978,7 +978,7 @@ caption
 {
 	border:1px solid #2c2c2c;
 	height:26px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/support/alt1.gif) repeat-x 0 100%; 
+	background:url(/Images/support/alt1.gif) repeat-x 0 100%; 
 }
 
 .supportComment .textBox
@@ -1036,7 +1036,7 @@ caption
 	font-family:Tahoma;
 	font-size:12px;
 	color:#888;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/line_div.gif) no-repeat 0 7px;
+	background:url(/Images/common/line_div.gif) no-repeat 0 7px;
 	float:left;
 }
 
@@ -1063,14 +1063,14 @@ caption
 	line-height:26px;
 	color:#999;
 	cursor:pointer;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/bullet_open_icon.gif) no-repeat 9px 6px;
+	background:url(/Images/common/bullet_open_icon.gif) no-repeat 9px 6px;
 }
 
 .faqList dt.question:hover
 {
 	font-weight:bold;
 	color:#fff;
-	background:#1a1a1a url(https://nightfall-dev.github.io/rw-cpanel/Images/common/bullet_open_icon.gif) no-repeat 9px 6px;
+	background:#1a1a1a url(/Images/common/bullet_open_icon.gif) no-repeat 9px 6px;
 }
 
 .faqList dt.question.on
@@ -1080,7 +1080,7 @@ caption
 	line-height:26px;
 	color:#fff;
 	border-top:1px solid #4b4b4b;
-	background:#1a1a1a url(https://nightfall-dev.github.io/rw-cpanel/Images/common/bullet_close_icon.gif) no-repeat 9px 6px;
+	background:#1a1a1a url(/Images/common/bullet_close_icon.gif) no-repeat 9px 6px;
 }
 
 .faqList dd.answer
@@ -1102,7 +1102,7 @@ caption
 	font-weight:normal;
 	font-size:20px;
 	text-transform:uppercase;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/sub_title_icon.gif) no-repeat 0 7px;
+	background:url(/Images/common/sub_title_icon.gif) no-repeat 0 7px;
 }
 
 .itemshop .itemCount
@@ -1138,7 +1138,7 @@ caption
 .itemshop .tooltipWrapper
 {
 	padding:5px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/tooltip.gif) no-repeat bottom center;
+	background:url(/Images/common/tooltip.gif) no-repeat bottom center;
 }
 
 .itemshop .tooltip
@@ -1186,7 +1186,7 @@ caption
 	height:16px;
 	padding:5px 8px;
 	color:#888;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/line_div.gif) no-repeat right;
+	background:url(/Images/common/line_div.gif) no-repeat right;
 	float:left;
 }
 
@@ -1220,7 +1220,7 @@ caption
 /* 2012-06-21 sector9 임시용 */
 .itemCategory dd a.sector9
 {   
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/icon_star.png) no-repeat 0 30%;        
+    background:url(/Images/itemshop/icon_star.png) no-repeat 0 30%;        
     color:#FFBB00;   
     display:inline-block;
     padding-left:13px;
@@ -1266,7 +1266,7 @@ caption
 	padding:14px 4px;
 	text-align:center;
 	border:1px solid #444;
-	background:#1a1a1c url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/item_list_bg.jpg) repeat-x;
+	background:#1a1a1c url(/Images/itemshop/item_list_bg.jpg) repeat-x;
 }
 
 /* 140826_작업부분 */
@@ -1276,7 +1276,7 @@ caption
 	padding:14px 4px;
 	text-align:center;
 	border:1px solid #a60108;
-	background:#1a1a1c url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/item_list_today_bg.jpg) repeat-x;
+	background:#1a1a1c url(/Images/itemshop/item_list_today_bg.jpg) repeat-x;
 }
 
 .itemList li .event_item
@@ -1285,7 +1285,7 @@ caption
 	padding:14px 4px;
 	text-align:center;
 	border:1px solid #9d1bb5;
-	background:#1a1a1c url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/item_list_event_bg.jpg) repeat-x;
+	background:#1a1a1c url(/Images/itemshop/item_list_event_bg.jpg) repeat-x;
 }
 
 .itemList li .limited_item
@@ -1294,7 +1294,7 @@ caption
 	padding:14px 4px;
 	text-align:center;
 	border:1px solid #567e1d;
-	background:#1a1a1c url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/item_list_limited_bg.jpg) repeat-x;
+	background:#1a1a1c url(/Images/itemshop/item_list_limited_bg.jpg) repeat-x;
 }
 /* //140826_작업부분 */
 
@@ -1330,14 +1330,14 @@ caption
 {
 	padding-left:15px;
 	color:#fcc300;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/rcoin_icon.png) no-repeat 0 2px;
+	background:url(/Images/common/rcoin_icon.png) no-repeat 0 2px;
 }
 
 .itemList li .item .rpointPrice
 {
 	padding-left:15px;
 	color:#00fcd6;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/rpoint_icon.png) no-repeat 0 2px;
+	background:url(/Images/common/rpoint_icon.png) no-repeat 0 2px;
 }
 
 .itemList li .item .orignalPrice
@@ -1346,7 +1346,7 @@ caption
 	font-weight:bold;
 	text-decoration: line-through;
 	color:#888;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/left_arrow.gif) no-repeat 1px 6px;
+	background:url(/Images/common/left_arrow.gif) no-repeat 1px 6px;
 }
 
 .itemList li .item .discount em
@@ -1354,7 +1354,7 @@ caption
 	padding-left:12px;
 	font-weight:bold;
 	color:#fff;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/discount_icon.gif) no-repeat 0 3px;
+	background:url(/Images/common/discount_icon.gif) no-repeat 0 3px;
 }
 
 /* view & cart & wish */
@@ -1376,7 +1376,7 @@ caption
 	width:610px;
 	padding:19px;
 	border:1px solid #272727;
-	background:#1a1a1c url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/item_cart_bg.jpg) repeat-x;
+	background:#1a1a1c url(/Images/itemshop/item_cart_bg.jpg) repeat-x;
 }
 
 .itemCart .item,
@@ -1385,7 +1385,7 @@ caption
 	width:610px;
 	padding:19px;
 	border:1px solid #272727;
-	background:#1a1a1c url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/item_cart_bg.jpg) repeat-x;
+	background:#1a1a1c url(/Images/itemshop/item_cart_bg.jpg) repeat-x;
 	position:relative; /* 140422~_추가된 부분 */
 }
 
@@ -1439,21 +1439,21 @@ caption
 	font-family:Tahoma;
 	font-weight:bold;
 	font-size:15px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/line.gif) repeat-x bottom;
+	background:url(/Images/itemshop/line.gif) repeat-x bottom;
 }
 
 .item .itemInfo .rcoinPrice
 {
 	padding-left:15px;
 	color:#fcc300;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/rcoin_icon.png) no-repeat 0 3px;
+	background:url(/Images/common/rcoin_icon.png) no-repeat 0 3px;
 }
 
 .item .itemInfo .rpointPrice
 {
 	padding-left:15px;
 	color:#00fcd6;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/rpoint_icon.png) no-repeat 0 3px;
+	background:url(/Images/common/rpoint_icon.png) no-repeat 0 3px;
 }
 
 .item .itemInfo .orignalPrice
@@ -1462,7 +1462,7 @@ caption
 	font-weight:bold;
 	text-decoration: line-through;
 	color:#888;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/left_arrow.gif) no-repeat 1px 7px;
+	background:url(/Images/common/left_arrow.gif) no-repeat 1px 7px;
 }
 
 .item .itemInfo .discount em
@@ -1470,7 +1470,7 @@ caption
 	padding-left:12px;
 	font-weight:bold;
 	color:#fff;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/discount_icon.gif) no-repeat 0 6px;
+	background:url(/Images/common/discount_icon.gif) no-repeat 0 6px;
 }
 
 .item .itemInfo .orderButton
@@ -1494,7 +1494,7 @@ caption
 	font-size:12px;
 	line-height:22px;
 	position:relative;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/colon_icon.gif) no-repeat 110px 8px;
+	background:url(/Images/common/colon_icon.gif) no-repeat 110px 8px;
 }
 
 .item .itemInfo .benefit li em
@@ -1535,7 +1535,7 @@ caption
 	text-indent: -1000px;
 	line-height: 0;
 	overflow: hidden;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/num_btn.gif) no-repeat;
+	background:url(/Images/itemshop/num_btn.gif) no-repeat;
 }
 
 .item .itemInfo .num-button .num-up
@@ -1650,7 +1650,7 @@ caption
 	font-size:14px;
 	line-height:20px;
 	color:#fff;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/colon_icon.gif) no-repeat 150px 7px;
+	background:url(/Images/common/colon_icon.gif) no-repeat 150px 7px;
 	position:relative;
 }
 
@@ -1687,7 +1687,7 @@ caption
 	font-size:20px;
 	text-transform:uppercase;
 	color:#fff;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/sub_title_icon.gif) no-repeat 0 7px;
+	background:url(/Images/common/sub_title_icon.gif) no-repeat 0 7px;
 }
 
 .member input[type="text"],
@@ -1792,7 +1792,7 @@ caption
 	font-weight:bold;
 	font-size:11px;
 	text-transform:uppercase;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/list_icon.gif) no-repeat 0 7px;
+	background:url(/Images/common/list_icon.gif) no-repeat 0 7px;
 	float:left;
 }
 
@@ -1873,7 +1873,7 @@ caption
 {
 	padding:13px;
 	border:1px solid #000;
-	background:#0f0f0f url(https://nightfall-dev.github.io/rw-cpanel/Images/member/profile_bg.jpg) repeat-x;
+	background:#0f0f0f url(/Images/member/profile_bg.jpg) repeat-x;
 }
 
 .userProfile p
@@ -1923,7 +1923,7 @@ caption
 {
 	width:960px;
 	height:356px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/sub/login_bg.png) no-repeat;
+	background:url(/Images/sub/login_bg.png) no-repeat;
 }
 
 .loginBox
@@ -1980,13 +1980,13 @@ fieldset
 {
     width:240px;
     height:60px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/login_title.gif) no-repeat;
+    background:url(/Images/main/login_title.gif) no-repeat;
 }
 
 .login .loginForm
 {   
     height:100px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/login_bg.gif) no-repeat;
+    background:url(/Images/main/login_bg.gif) no-repeat;
 }
 
 .login .loginForm h1
@@ -2012,7 +2012,7 @@ fieldset
 .login .loginForm .user #logincoin
 {
 	padding-left:15px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/rcoin_icon.png) no-repeat 0 1px;
+	background:url(/Images/common/rcoin_icon.png) no-repeat 0 1px;
 }
 
 .login .loginForm .user #rpoint
@@ -2020,7 +2020,7 @@ fieldset
 	margin-left:10px;
 	padding-left:15px;
 	color:#00fcd6;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/rpoint_icon.png) no-repeat 0 1px;
+	background:url(/Images/common/rpoint_icon.png) no-repeat 0 1px;
 }
 
 .login .loginForm .user h1
@@ -2043,13 +2043,13 @@ fieldset
     /************************************************************
     * 여름업데이트 맞춰 배경 변경 2014-06-05 김동규
     ************************************************************/
-    /*background:url(/web/20150120132350im_/http://www.ran-world.com/Images/web_concept_BG_20131218.jpg) no-repeat 50% 0%; */
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/web_concept_BG_10.jpg) no-repeat 50% 0%;
+    /*background:url(/web/20150120132350im_/http://www.ran-world.com//Images/web_concept_BG_20131218.jpg) no-repeat 50% 0%; */
+    background:url(/Images/web_concept_BG_10.jpg) no-repeat 50% 0%;
 }
 
 .bottom-body
 {
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/bottom_bg.jpg) no-repeat 50% 100%; 
+    background:url(/Images/bottom_bg.jpg) no-repeat 50% 100%; 
 }
 
 .wrapper
@@ -2088,7 +2088,7 @@ fieldset
 {
     width:960px;
     height:160px;
-    /*ackground:url(/web/20150120132350im_/http://www.ran-world.com/Images/main/logo.png) no-repeat 50% 0;*/
+    /*ackground:url(/web/20150120132350im_/http://www.ran-world.com//Images/main/logo.png) no-repeat 50% 0;*/
     position:relative;    
 }
 
@@ -2104,7 +2104,7 @@ fieldset
     float:left;
     /*margin-top:74px;*/
     position:relative;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/rantime2.gif) no-repeat 0 0;
+    background:url(/Images/main/rantime2.gif) no-repeat 0 0;
     padding-left:80px;
 }
 
@@ -2118,7 +2118,7 @@ fieldset
 
 .logo .rantime .time
 {
-    width:230px;
+    width:245px;/*230*/
     margin-top:134px;
     letter-spacing:normal;
     font-weight: bold;    
@@ -2130,9 +2130,10 @@ fieldset
 
 .logo .rantime .hour
 {   
-    font-size:15px;
-    color:#BB0000;
+    font-size:11px;
+    color:#cccccc;
     letter-spacing:normal;
+	font-family: Tahoma, Arial, sans-serif;
 }
 
 .logo .top-search
@@ -2140,7 +2141,7 @@ fieldset
     float:right;
     /*margin-top:74px;*/
     height:160px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/chain_bg.gif) no-repeat 84% 100%;
+    background:url(/Images/main/chain_bg.gif) no-repeat 84% 100%;
 }
 
 .logo .searchTxt
@@ -2177,13 +2178,13 @@ fieldset
 }
 
 /* NAV */
-#navigation_bg { position: absolute; width: 960px; height: 90px; background: url(https://nightfall-dev.github.io/rw-cpanel/Images/Navigation/gnb_chain.gif) no-repeat; z-index: 2000; }
+#navigation_bg { position: absolute; width: 960px; height: 90px; background: url(/Images/Navigation/gnb_chain.gif) no-repeat; z-index: 2000; }
 
 #navigation { position: relative; z-index: 2100; top: 26px; width: 960px; height: 276px; }
-#navigation_main { position: absolute; z-index: 2600; top: 0; left: 0; width: 960px; height: 50px; background: url(https://nightfall-dev.github.io/rw-cpanel/Images/Navigation/gnb_main_bg.gif) 0 0 no-repeat; }
+#navigation_main { position: absolute; z-index: 2600; top: 0; left: 0; width: 960px; height: 50px; background: url(/Images/Navigation/gnb_main_bg.gif) 0 0 no-repeat; }
 #navigation_main li { float: left; z-index: 2700; height: 50px; }
 /* 140722_작업부분(랭킹추가,전체사이즈 수정) -> png*/
-#navigation_main li a { display:block; z-index: 2800; height: 50px; background-image: url(https://nightfall-dev.github.io/rw-cpanel/Images/Navigation/gnb_text.png); background-repeat: no-repeat; text-indent: -9999px; }
+#navigation_main li a { display:block; z-index: 2800; height: 50px; background-image: url(/Images/Navigation/gnb_text.png); background-repeat: no-repeat; text-indent: -9999px; }
 
 /* 140722_작업부분(랭킹추가,전체사이즈 수정) */
 #n-news a { width: 131px; background-position: 0 0; margin-left: 21px; }
@@ -2205,10 +2206,10 @@ fieldset
 
 
 /* NAV DROPDOWN */
-#drop { display: none; overflow: hidden; position: absolute; z-index: 2200; top: 30px; left: 0; width: 960px; height: 230px; background: url(https://nightfall-dev.github.io/rw-cpanel/Images/Navigation/gnb_drop_bg.gif) no-repeat; }
+#drop { display: none; overflow: hidden; position: absolute; z-index: 2200; top: 30px; left: 0; width: 960px; height: 230px; background: url(/Images/Navigation/gnb_drop_bg.gif) no-repeat; }
 #navigation:hover #drop { display: block; }
 #drop li { float: left; z-index: 2400; height: 200px; padding-top: 30px; line-height: 20px; text-align: center; }
-#drop li:hover,#drop li.hover,#drop li.active { z-index: 2300; height: 213px; background: url(Images/Navigation/gnb_drop_shadow.png) no-repeat; color: #F30000; }
+#drop li:hover,#drop li.hover,#drop li.active { z-index: 2300; height: 213px; background: url(/Images/Navigation/gnb_drop_shadow.png) no-repeat; color: #F30000; }
 #drop a { display: block; z-index: 2500; height: 20px; font-family: verdana; font-size: 13px; color: #FFF; text-decoration: none; }
 #drop span { display: inline-block; }
 #drop a:hover span { color: #F30000; }
@@ -2226,7 +2227,7 @@ fieldset
 {
 	width:615px;
 	height:210px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/wire_left.gif) no-repeat;
+	background:url(/Images/main/wire_left.gif) no-repeat;
 	padding:10px;
 	position:absolute;
 	top:90px;
@@ -2238,7 +2239,7 @@ fieldset
 {
 	width:325px;
 	height:230px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/wire_right.gif) no-repeat;
+	background:url(/Images/main/wire_right.gif) no-repeat;
 	position:absolute;
 	top:90px;
 	left:635px;
@@ -2276,7 +2277,7 @@ fieldset
     width:630px;
     height:230px;
     float:left;    
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/movie_frame.gif) no-repeat; 
+    background:url(/Images/main/movie_frame.gif) no-repeat; 
 }
 
 .topBox .down
@@ -2284,7 +2285,7 @@ fieldset
     width:330px;
     height:230px;
     float:right;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/4/down_Area.png) no-repeat;
+    background:url(/Images/4/down_Area.png) no-repeat;
 }
 
 .topBox .down .client { position:absolute; z-index:2; margin:15px 0 0 9px; }
@@ -2315,13 +2316,13 @@ fieldset
 .mainrank .mainrankTop
 {
     height:50px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/ranking_title.gif) no-repeat;
+    background:url(/Images/main/ranking_title.gif) no-repeat;
 }
 
 .mainrank .mainrankMiddle
 {   
     height:215px; 
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/ranking_bg.gif) no-repeat;
+    background:url(/Images/main/ranking_bg.gif) no-repeat;
 }
 
 .mainrank ul
@@ -2365,7 +2366,7 @@ fieldset
     margin-bottom:2px;
     margin-left:9px;    
     float:left;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/path.png) repeat-x 0% 100%;
+    background:url(/Images/main/path.png) repeat-x 0% 100%;
 	height:15px;
 }
 
@@ -2404,8 +2405,8 @@ fieldset
 
 /* 140722_작업부분_start */
 .club{width:240px;}
-.club .clubTop {height:50px; background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/club_title.gif) no-repeat;}
-.club .clubMiddle {height:158px; background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/club_bg.gif) no-repeat;}
+.club .clubTop {height:50px; background:url(/Images/main/club_title.gif) no-repeat;}
+.club .clubMiddle {height:158px; background:url(/Images/main/club_bg.gif) no-repeat;}
 .club .club_conbox {padding:14px 0 0 15px;}
 
 /* 140723_작업부분_start */
@@ -2414,8 +2415,8 @@ fieldset
 /* 140723_작업부분_end */
 
 .table_club {border-collapse:collapse; border-spacing:0; table-layout:fixed; width:195px;}
-.table_club thead {background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/club_con_tit_bg.gif) repeat-x; color:#ccc; height:20px;}
-.table_club th.line {background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/club_con_tit_line.gif) no-repeat right;}
+.table_club thead {background:url(/Images/main/club_con_tit_bg.gif) repeat-x; color:#ccc; height:20px;}
+.table_club th.line {background:url(/Images/main/club_con_tit_line.gif) no-repeat right;}
 .table_club td {border-bottom:1px solid #2f2e2e; line-height:14px; padding:3px 0 3px; text-align:center;}
 .table_club td.txt_left {text-align:left; padding:0 0 0 3px;}
 /* 140722_작업부분_end*/
@@ -2429,19 +2430,19 @@ fieldset
 .social .socialTop
 {
     height:50px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/social_title.gif) no-repeat;
+    background:url(/Images/main/social_title.gif) no-repeat;
 }
 
 .social .socialMiddle
 {
     height:103px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/social_bg.gif) no-repeat;
+    background:url(/Images/main/social_bg.gif) no-repeat;
 }
 
 .social .socialBottom, .left-banner .bottom
 {
     height:40px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/chain_bg1.gif) no-repeat;
+    background:url(/Images/main/chain_bg1.gif) no-repeat;
 }
 
 .social ul
@@ -2468,7 +2469,7 @@ fieldset
 .left-banner .chain
 {
     height:10px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/banner_chain.gif) no-repeat left top;
+    background:url(/Images/Banner/banner_chain.gif) no-repeat left top;
 }
 
 /* 140722_작업부분_start */
@@ -2476,7 +2477,7 @@ fieldset
 {
     height:80px;
     padding:13px 0 0 12px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/banner_bg.gif) no-repeat left top;
+    background:url(/Images/Banner/banner_bg.gif) no-repeat left top;
 }
 /* 140722_작업부분_end */
 
@@ -2501,13 +2502,13 @@ fieldset
 .leftZone .part .newsTop
 {   
     height:58px;    
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/news_title.gif) no-repeat;
+    background:url(/Images/main/news_title.gif) no-repeat;
 }
 
 .leftZone .part .newsMiddle
 {    
     height:100px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/news_bg.gif) no-repeat;    
+    background:url(/Images/main/news_bg.gif) no-repeat;    
 }
 
 .leftZone .part .socialLikebox
@@ -2588,13 +2589,13 @@ fieldset
 .leftZone .part .hotTop
 {
     height:50px; 
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/issue_title.gif) no-repeat; 
+    background:url(/Images/main/issue_title.gif) no-repeat; 
 }
 
 .leftZone .part .hotMiddle
 {
     height:130px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/issue_bg.gif) no-repeat;
+    background:url(/Images/main/issue_bg.gif) no-repeat;
 }
 
 .hotTitle a
@@ -2606,13 +2607,13 @@ fieldset
 .leftZone .part .screenTop
 {
     height:50px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/gallery_title.gif) no-repeat;
+    background:url(/Images/main/gallery_title.gif) no-repeat;
 }
 
 .leftZone .part .screenMiddle
 {   
     height:190px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/best_bg.gif) no-repeat;    
+    background:url(/Images/main/best_bg.gif) no-repeat;    
 }
 
 .bestImgBox
@@ -2644,7 +2645,7 @@ fieldset
 .leftZone .part .screenBottom
 {   
     height:70px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/chain_bg2.gif) no-repeat;
+    background:url(/Images/main/chain_bg2.gif) no-repeat;
 }
 
 .side
@@ -2657,7 +2658,7 @@ fieldset
 {
     width:240px; 
 	height:170px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/recharge_bg.gif) no-repeat;
+	background:url(/Images/main/recharge_bg.gif) no-repeat;
 	padding-left:17px;
 }
 
@@ -2669,7 +2670,7 @@ fieldset
 .side .mainItemshop .itemshopTop
 {
 	height:40px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/itemshop_title.gif) no-repeat 15px 0;
+	background:url(/Images/main/itemshop_title.gif) no-repeat 15px 0;
 }
 
 /* 140722_작업부분_start */
@@ -2677,7 +2678,7 @@ fieldset
 {
 	height:422px;
 	padding:15px 15px 0 30px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/itemshop_bg2.gif) no-repeat;
+	background:url(/Images/main/itemshop_bg2.gif) no-repeat;
 }
 /* 140722_작업부분_end */
 
@@ -2693,14 +2694,14 @@ fieldset
 {
 	padding-left:15px;
 	color:#fcc300;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/rcoin_icon.png) no-repeat 0 1px;
+	background:url(/Images/common/rcoin_icon.png) no-repeat 0 1px;
 }
 
 .mainItemshop .item .rpointPrice
 {
 	padding-left:15px;
 	color:#00fcd6;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/rpoint_icon.png) no-repeat 0 1px;
+	background:url(/Images/common/rpoint_icon.png) no-repeat 0 1px;
 }
 
 .mainItemshop dt
@@ -2752,9 +2753,9 @@ fieldset
 
 /* 140722_작업부분_start */
 .right_banner {width:240px;}
-.right_banner .chain {height:10px; background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/banner_chain.gif) no-repeat right top;}
-.right_banner .box {height:80px; padding:13px 0 0 12px; text-align:center; background:url(https://nightfall-dev.github.io/rw-cpanel/Images/Banner/banner_bg.gif) no-repeat right top;}
-.right_banner .bottom {height:52px; background:url(https://nightfall-dev.github.io/rw-cpanel/Images/main/chain_bg3.gif) no-repeat;}
+.right_banner .chain {height:10px; background:url(/Images/Banner/banner_chain.gif) no-repeat right top;}
+.right_banner .box {height:80px; padding:13px 0 0 12px; text-align:center; background:url(/Images/Banner/banner_bg.gif) no-repeat right top;}
+.right_banner .bottom {height:52px; background:url(/Images/main/chain_bg3.gif) no-repeat;}
 /* 140722_작업부분_end */
 
 .content
@@ -2783,7 +2784,7 @@ fieldset
 {
     height:27px;    
     padding:23px 0 0 30px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/leftmenu/subnav_title.gif) no-repeat;    
+    background:url(/Images/leftmenu/subnav_title.gif) no-repeat;    
     font-size:0px;
 }
 
@@ -2792,7 +2793,7 @@ fieldset
     height:30px;
     padding-top:10px;
     text-align:center;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/leftmenu/btn_rollover.gif) no-repeat;
+    background:url(/Images/leftmenu/btn_rollover.gif) no-repeat;
 }
 
 .leftMenu .leftMenuTitle
@@ -2800,19 +2801,19 @@ fieldset
     height:30px;
     padding-top:10px;
     text-align:center;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/leftmenu/subbtn_bg.gif) no-repeat;
+    background:url(/Images/leftmenu/subbtn_bg.gif) no-repeat;
 }
 
 .leftMenu .leftMenuBlank
 {
     height:5px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/leftmenu/subnav_margin.gif) no-repeat 0% 0%;
+    background:url(/Images/leftmenu/subnav_margin.gif) no-repeat 0% 0%;
 }
 
 .leftMenu .leftMenuBottom
 {
     height:80px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/leftmenu/subnav_end.gif) no-repeat;
+    background:url(/Images/leftmenu/subnav_end.gif) no-repeat;
 }
 
 /************************************************************
@@ -2821,7 +2822,7 @@ fieldset
 .contentTop
 {
     height:78px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/sub/subright_title.gif) no-repeat;
+    background:url(/Images/sub/subright_title.gif) no-repeat;
     padding-top:37px;
     padding-left:45px;
     padding-right:60px;
@@ -2829,13 +2830,13 @@ fieldset
 
 .contentMiddle
 {   
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/sub/subright_bg.gif) repeat-y;
+    background:url(/Images/sub/subright_bg.gif) repeat-y;
 }
 
 .contentBottom
 {
     height:110px;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/sub/subright_bottom.gif) no-repeat;
+    background:url(/Images/sub/subright_bottom.gif) no-repeat;
 }
 
 
@@ -2887,7 +2888,7 @@ fieldset
     font-weight:normal;
     font-size:20px;
     text-transform:uppercase;
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/sub_title_icon.gif) no-repeat 0 7px;
+    background:url(/Images/common/sub_title_icon.gif) no-repeat 0 7px;
     color:#ffffff;
 }
 
@@ -3043,7 +3044,7 @@ fieldset
 	font-size:10px;
 	text-transform:uppercase;
 	color:#999;
-	background:#141414 url(https://nightfall-dev.github.io/rw-cpanel/Images/board/th_bg.gif) repeat-x;
+	background:#141414 url(/Images/board/th_bg.gif) repeat-x;
 }
 
 .history td
@@ -3095,7 +3096,7 @@ fieldset
 	font-family:Verdana;
 	font-size:11px;
 	color:#888;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/common/line_div.gif) no-repeat 0 7px;
+	background:url(/Images/common/line_div.gif) no-repeat 0 7px;
 	float:left;
 }
 
@@ -3273,7 +3274,7 @@ fieldset
 	width:605px;
 	height:100px;
 	padding:30px 0 0 45px;
-	background:url('https://nightfall-dev.github.io/rw-cpanel/Images/download/download_bg1.gif') no-repeat;
+	background:url('/Images/download/download_bg1.gif') no-repeat;
 }
 
 .guideButton
@@ -3282,7 +3283,7 @@ fieldset
 	height:186px;
 	margin-bottom:20px;
 	padding:40px 0 0 45px;
-	background:url('https://nightfall-dev.github.io/rw-cpanel/Images/download/download_bg2.gif') no-repeat;
+	background:url('/Images/download/download_bg2.gif') no-repeat;
 }
 
 .guideButton li
@@ -3324,7 +3325,7 @@ fieldset
 	font-size:10px;
 	text-transform:uppercase;
 	color:#999;
-	background:#141414 url(https://nightfall-dev.github.io/rw-cpanel/Images/board/th_bg.gif) repeat-x;
+	background:#141414 url(/Images/board/th_bg.gif) repeat-x;
 }
 
 .Requirement
@@ -3353,7 +3354,7 @@ fieldset
 .titleBox
 {
 	font-weight:bold;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/subtitle_box.gif) no-repeat;
+	background:url(/Images/gameguide/subtitle_box.gif) no-repeat;
 	width:650px;
 	height:35px;
 	padding-bottom:20px;
@@ -3423,49 +3424,49 @@ fieldset
 
 .character_bg1
 {
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/brawler_bg.jpg) no-repeat;	
+	background:url(/Images/gameguide/brawler_bg.jpg) no-repeat;	
 	height:505px;
 }
 
 .character_bg2
 {
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/archer_bg.jpg) no-repeat;	
+	background:url(/Images/gameguide/archer_bg.jpg) no-repeat;	
 	height:505px;
 }
 
 .character_bg3
 {
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/swordman_bg.jpg) no-repeat;	
+	background:url(/Images/gameguide/swordman_bg.jpg) no-repeat;	
 	height:505px;
 }
 
 .character_bg4
 {
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/shaman_bg.jpg) no-repeat;	
+	background:url(/Images/gameguide/shaman_bg.jpg) no-repeat;	
 	height:505px;
 }
 
 .character_bg5
 {
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/extreme_bg.jpg) no-repeat;	
+	background:url(/Images/gameguide/extreme_bg.jpg) no-repeat;	
 	height:505px;
 }
 
 .character_bg6
 {
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/scientist_bg.jpg) no-repeat;	
+	background:url(/Images/gameguide/scientist_bg.jpg) no-repeat;	
 	height:505px;
 }
 
 .character_bg7
 {
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/assassin_bg.jpg) no-repeat;
+	background:url(/Images/gameguide/assassin_bg.jpg) no-repeat;
 	height:505px;
 }
 
 .character_bg8
 {
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/gameguide/magician_bg.jpg) no-repeat;
+	background:url(/Images/gameguide/magician_bg.jpg) no-repeat;
 	height:505px;
 }
 
@@ -3569,7 +3570,7 @@ fieldset
     /*
     filter:alpha(Opacity=10);
     */
-    background:url(https://nightfall-dev.github.io/rw-cpanel/Images/ranking/rank_bg.jpg) no-repeat;
+    background:url(/Images/ranking/rank_bg.jpg) no-repeat;
 }
 
 .rank .rankList .rankClass
@@ -3644,7 +3645,7 @@ legend
 	height:31px;
 	margin-bottom:10px;
 	padding:22px 0 0 20px;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/ranking/season_ranking_bg.gif) no-repeat;
+	background:url(/Images/ranking/season_ranking_bg.gif) no-repeat;
 }
 
 .season-ranking p.season-ranking-info
@@ -3672,7 +3673,7 @@ legend
 	width:650px;
 	text-align:center;
 	table-layout: fixed;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/ranking/ranking_top_bg.gif) repeat-x;
+	background:url(/Images/ranking/ranking_top_bg.gif) repeat-x;
 }
 
 .rankList em.up
@@ -3755,7 +3756,7 @@ legend
 	border-left:none;
 	border-right:none;
 	border-bottom:1px solid #191919;
-	background:url(https://nightfall-dev.github.io/rw-cpanel/Images/ranking/board_top_tab.gif) no-repeat right;
+	background:url(/Images/ranking/board_top_tab.gif) no-repeat right;
 }
 
 .rankList th.last
@@ -3901,7 +3902,7 @@ legend
 .itemView .item .itemInfo2 {float:right; width:450px;}
 .item .itemInfo2 h4 {font-family:Arial; font-size:20px; color:#9d1bb5;}
 .item .itemInfo2 p {font-family:Arial; font-size:11px; padding-bottom:10px; text-transform:uppercase; line-height:20px; color:#666;}
-.item .itemInfo2 .itemDetail2 {padding-top:20px; font-size:12px; background:url(https://nightfall-dev.github.io/rw-cpanel/Images/itemshop/line.gif) repeat-x top;}
+.item .itemInfo2 .itemDetail2 {padding-top:20px; font-size:12px; background:url(/Images/itemshop/line.gif) repeat-x top;}
 .item .itemInfo2 .itemDetail2 p {font-size:12px; text-transform:none; line-height:14px; color:#ccc;}
 .item .itemInfo2 .itemDetail2 strong {margin-bottom:5px; font-size:14px; text-transform:uppercase; color:#fff; display:block;}
 
@@ -3942,8 +3943,8 @@ font-weight: normal;  font-style: normal; }
 
 
 #paginate {position:absolute;top:228px;left:0}
-#paginate a{display:inline-block;overflow:hidden;width:12px;height:12px;margin-right:2px;background:url(https://nightfall-dev.github.io/rw-cpanel/Images/icon_set.png) no-repeat -15px 0px;line-height:999px}
-#paginate a.on {display:inline-block;overflow:hidden;width:12px;height:12px;margin-right:2px;background:url(https://nightfall-dev.github.io/rw-cpanel/Images/icon_set.png) no-repeat 0px 0px;line-height:999px}
+#paginate a{display:inline-block;overflow:hidden;width:12px;height:12px;margin-right:2px;background:url(/Images/icon_set.png) no-repeat -15px 0px;line-height:999px}
+#paginate a.on {display:inline-block;overflow:hidden;width:12px;height:12px;margin-right:2px;background:url(/Images/icon_set.png) no-repeat 0px 0px;line-height:999px}
 
 
 /* 2014-06-05 여름업데이트 버튼 CSS  추가*/
@@ -3961,9 +3962,9 @@ font-weight: normal;  font-style: normal; }
 
 
 /* 140825_작업부분 (recharge,consumption event) */
-.rcoinevent_top_box {position:relative; width:650px; height:200px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/top_bg.png') repeat-x 0 40px;}
-.rcoinevent_tit {position:absolute; top:5px; width:100%; height:94px; z-index:1; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/tit_01.png') no-repeat 0 0; background-position:center;}
-.rcoinevent_tit2 {position:absolute; top:5px; width:100%; height:94px; z-index:1; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/tit_02.png') no-repeat 0 0; background-position:center;}
+.rcoinevent_top_box {position:relative; width:650px; height:200px; background:url('/Images/rcoinevent/top_bg.png') repeat-x 0 40px;}
+.rcoinevent_tit {position:absolute; top:5px; width:100%; height:94px; z-index:1; background:url('/Images/rcoinevent/tit_01.png') no-repeat 0 0; background-position:center;}
+.rcoinevent_tit2 {position:absolute; top:5px; width:100%; height:94px; z-index:1; background:url('/Images/rcoinevent/tit_02.png') no-repeat 0 0; background-position:center;}
 .rcoinevent_tit span {display:none;}
 .rcoinevent_tit2 span {display:none;}
 .rcoinevent_day {position:absolute; top:72px; left:10px; width:630px; height:50px; text-align:center; background:#000; border-bottom:1px solid #333;}
@@ -3974,16 +3975,16 @@ font-weight: normal;  font-style: normal; }
 .rcoinevent_notice_txt {width:630px; padding:15px 0 15px 10px; display:block;}
 
 .rcoinevent_step {padding:30px 0 0 0;}
-.rcoinevent_step_top {height:1px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_top.gif') no-repeat; display:block;}
-.rcoinevent_step_box {position:relative; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_top.gif') no-repeat bottom;}
-.rcoinevent_step_gauge {width:70px; height:105px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_bg.gif') no-repeat;}
+.rcoinevent_step_top {height:1px; background:url('/Images/rcoinevent/gauge_top.gif') no-repeat; display:block;}
+.rcoinevent_step_box {position:relative; background:url('/Images/rcoinevent/gauge_top.gif') no-repeat bottom;}
+.rcoinevent_step_gauge {width:70px; height:105px; background:url('/Images/rcoinevent/gauge_bg.gif') no-repeat;}
 
-.rcoinevent_gauge_01 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_on_01.png') no-repeat;}
-.rcoinevent_gauge_02 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_on_02.png') no-repeat;}
-.rcoinevent_gauge_03 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_on_03.png') no-repeat;}
-.rcoinevent_gauge_04 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_on_04.png') no-repeat;}
-.rcoinevent_gauge_05 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_on_05.png') no-repeat;}
-.rcoinevent_gauge_off {height:100px; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/gauge_off.gif') repeat-y;}
+.rcoinevent_gauge_01 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('/Images/rcoinevent/gauge_on_01.png') no-repeat;}
+.rcoinevent_gauge_02 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('/Images/rcoinevent/gauge_on_02.png') no-repeat;}
+.rcoinevent_gauge_03 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('/Images/rcoinevent/gauge_on_03.png') no-repeat;}
+.rcoinevent_gauge_04 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('/Images/rcoinevent/gauge_on_04.png') no-repeat;}
+.rcoinevent_gauge_05 {position:absolute; top:2px; left:3px; width:64px; height:100px; background:url('/Images/rcoinevent/gauge_on_05.png') no-repeat;}
+.rcoinevent_gauge_off {height:100px; background:url('/Images/rcoinevent/gauge_off.gif') repeat-y;}
 .rcoinevent_gauge_txt {position:relative; margin:0 auto; padding:30px 0 0 0; width:60px; text-align:center; z-index:1;}
 .rcoinevent_gauge_txt span.txt1 {padding:0 0 3px 0; width:100%; color:#fff; font-size:15px; font-weight:bold; display:block;}
 .rcoinevent_gauge_txt span.txt2 {padding:1px 3px; width:50px; text-align:center; height:15px; color:#fff; background:#000;}
@@ -4006,17 +4007,17 @@ font-weight: normal;  font-style: normal; }
 .rcoinevent_step_item .item_txt span.tit {padding:3px 0; height:20px; color:#ee8615; font-size:15px; font-weight:bold; display:block;}
 .rcoinevent_step_item .item_txt span.txt {width:270px; height:63px; color:#757575; display:block; overflow-x:auto;}
 
-.rcoinevent_step_get {position:absolute; top:2px; right:0; width:98px; height:100px; text-align:center; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/box_bg.png') repeat-x;}
+.rcoinevent_step_get {position:absolute; top:2px; right:0; width:98px; height:100px; text-align:center; background:url('/Images/rcoinevent/box_bg.png') repeat-x;}
 .rcoinevent_step_get .item_get_txt {padding:19px 0 0 0; color:#757575;}
 .rcoinevent_step_get .item_get_txt span.txt {color:#c00000; font-weight:bold;}
 .rcoinevent_step_get .item_get_txt span.txt2 {color:#fff;}
 .rcoinevent_step_get .item_get_btn {padding:15px 0 0 0;}
 
-.rcoinevent_getall {margin:30px 0; text-align:center; background:url('https://nightfall-dev.github.io/rw-cpanel/Images/rcoinevent/box_bg2.png') no-repeat;}
+.rcoinevent_getall {margin:30px 0; text-align:center; background:url('/Images/rcoinevent/box_bg2.png') no-repeat;}
 .rcoinevent_getall .getall_btn {padding:20px 0;}
 .rcoinevent_getall .getall_txt {color:#434343;}
 /* 141006_작업영역(배경배너) */
-.bg_rrc_box {position:absolute; top:499px; left:-177px; width:172px; height:150px; background:url(https://nightfall-dev.github.io/rw-cpanel/Images/background_txt_rrc.png)no-repeat; z-index:1;}
+.bg_rrc_box {position:absolute; top:499px; left:-177px; width:172px; height:150px; background:url(/Images/background_txt_rrc.png)no-repeat; z-index:1;}
 .bg_rrc_box_txt {position:relative; margin:0 auto; width:146px;}
 .bg_rrc_txt {position:absolute; top:10px; left:0; width:100%; font-size:11px; color:#e00000; text-align:center;}
 .bg_rrc_txt span.bg_rcc_txt_c1 {color:#ffd800; font-weight:bold;}
@@ -4026,7 +4027,7 @@ font-weight: normal;  font-style: normal; }
 
 
 /* 141006_작업영역 */
-.rrc_box {width:100%; height:208px; padding:0 0 20px 0; background:url(https://nightfall-dev.github.io/rw-cpanel/Images/recharge/rrc_box.png)no-repeat;}
+.rrc_box {width:100%; height:208px; padding:0 0 20px 0; background:url(/Images/recharge/rrc_box.png)no-repeat;}
 .rrc_box_txt {position:relative; margin:0 auto; width:528px;}
 .rrc_txt {position:absolute; top:18px; left:0; width:100%; font-size:18px; color:#e00000; text-align:center;}
 .rrc_txt span.rcc_txt_c1 {color:#ffd800;}
