@@ -45,7 +45,7 @@
                                 </div>
                             </div>
                             <div class="logoImg">
-                                <a href="/rw-cpanel/index.html"><img src="Images/logo.png" class="pointer" alt=""/></a>
+                                <a href="/index.html"><img src="Images/logo.png" class="pointer" alt=""/></a>
                             </div>
                             <div class="top-search">
                                 <input type="text" id="Keyworld" name="Keyworld" class="searchTxt"/><img src="Images/main/search_btn.gif" id="btnAllSearch" class="pl5 pointer searchBtn" alt="SEARCH"/>
@@ -559,7 +559,7 @@
 <div class="pb10">
     <img src="Images/main/footer.png" border="0" usemap="#FooterMap" alt=""/>
     <map name="FooterMap" id="Map1">
-      <area shape="rect" coords="39,3,84,22" href="/rw-cpanel/index.html" alt="Home"/>
+      <area shape="rect" coords="39,3,84,22" href="/index.html" alt="Home"/>
       <area shape="rect" coords="84,4,129,22" href="/News/NewsList.aspx?NewsCategory=1" alt="News"/>
       <area shape="rect" coords="130,3,223,21" href="/GameGuide/Story.aspx" alt="Game Guides"/>
       <area shape="rect" coords="227,4,301,22" href="/ItemShopNew/" alt="Item Shop"/>
@@ -685,7 +685,7 @@
 
             function ShowRanking(RankType) {
                 $.post(
-                    "Ranking/Rank.html",
+                    "/Ranking/Rank.html",
                     { "RankType": RankType, "SGNum": $("#selrank").val() },
                     function(data) {
                         $("#rankingList").html(data).show();
@@ -810,7 +810,7 @@
         // 서버선택 랭킹 리프레쉬
         function ShowRankingByServer() {
             $.post(
-                    "Ranking/Rank.html",
+                    "/Ranking/Rank.html",
                     { "RankType": VarRankType, "SGNum": $("#selrank").val() },
                     function(data) {
                         $("#rankingList").html(data).show();
@@ -821,7 +821,7 @@
         // 선도길드 함수 추가
         function ShowMainGuild(SGNum) {
             $.post(
-                    "Ranking/MainGuild.html",
+                    "/Ranking/MainGuild.html",
                     { "SGNum": SGNum },
                     function(data) {
                         $("#tableMainGuild").html(data).show();
